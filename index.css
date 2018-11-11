@@ -1,0 +1,36 @@
+* {
+	all: center;
+}
+
+h1{
+
+	color: #1a0011;
+	text-shadow: 2px 2px red;
+	font-size: 55px;
+
+}
+h2{
+	font-size: 30px;
+	color: #330022;
+}
+h3{
+	font-size: 35px
+}
+.city{
+	font-size: 50px;
+}
+body{
+	background-color: #867979;
+	text-align: center;
+
+}
+#aksone{
+	align-items: center;
+}
+.Ctext{
+	font-size: 10px
+}
+.Aboveaks{
+		font-size: 20px;
+		font-family: Arial;
+}
